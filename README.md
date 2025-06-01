@@ -91,10 +91,8 @@ Interactive dashboards include:
 
 ---
 
-## Authors & Credits
+##Credits
 
-- **Project Team**: [Your Name Here]
-- **Institution**: Dublin Business School
 - **Dataset**: [LAPD Open Data Portal](https://data.lacity.org/)
 
 ---
