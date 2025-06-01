@@ -81,7 +81,7 @@ Interactive dashboards include:
 
 ---
 
- ##Tableua Interactive Presentation
+ ## Tableua Interactive Presentation
 ![Crime Dashboard](tableau_schema.png)
 
 ---
