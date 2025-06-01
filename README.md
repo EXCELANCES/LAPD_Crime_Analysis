@@ -81,6 +81,11 @@ Interactive dashboards include:
 
 ---
 
+ ##Tableua Interactive Presentation
+![Crime Dashboard](tableau_schema.png)
+
+---
+
 ## Technical Stack
 
 - **ETL**: SSIS (SQL Server Integration Services)
