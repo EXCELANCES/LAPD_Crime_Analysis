@@ -53,18 +53,20 @@ The final **Fact Table** is populated with cleaned and dimensionally mapped data
 
 ## Sample Queries & Reports (SSRS)
 
-### 1. Crime Distribution by Location
-- **Top Area**: Pacific (13,793 crimes):contentReference[oaicite:0]{index=0}
+1. **Crime Distribution by Location**  
+Top Area: Pacific, with 13,793 reported crimes.
 
-### 2. Crime by Time of Day
-- **Peak Time**: 12:00 PM (14,437 crimes):contentReference[oaicite:1]{index=1}
+2. **Crime by Time of Day**  
+Peak Time: 12:00 PM, with 14,437 crimes recorded.
 
-### 3. Crime Type by Female Victims and Area
-- **Most common crime (77th Street)**: Theft of Identity (734 reports):contentReference[oaicite:2]{index=2}
+3. **Crime Type by Female Victims and Area**  
+Most common crime in 77th Street: Theft of Identity, reported 734 times.
 
-### 4. Crime Trends by Year and Victim Age Group
-- **Most affected group**: Ages 18–30
-- **Top crime type**: Battery - Simple Assault:contentReference[oaicite:3]{index=3}
+4. **Crime Trends by Year and Victim Age Group**  
+Most affected group: Ages 18–30  
+Top crime type: Battery - Simple Assault
+
+
 
 ---
 
