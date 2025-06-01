@@ -20,6 +20,11 @@ The project aims to support:
 
 The data warehouse is structured using a **Star Schema** with:
 
+### Entity-Relationship Diagram (ERD)
+
+![Star Schema ERD](Crime_Star_Schema_ERD.png)
+
+
 - **Fact Table**: `Fact_Crime`
 - **Dimension Tables**:
   - `Time_Dimension`
